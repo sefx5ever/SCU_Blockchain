@@ -4,7 +4,7 @@
 * Q1：用完CryptoOctoCat後有什麼感想？
 ##### 哈哈哈哈哈哈，雖然我把錢花完了，也生產了5個種類的章魚貓，從交易的過程中，熟悉了以太坊的操作過程，也簡單瞭解智能合約的操作過程（挖礦體驗）。但#是，在交易過程中也發現一些缺點，好比如處理下單的速度、手續費、安全性（取決於用戶人數）等等。不過，很感謝助教那麽用心去模擬kitty的交易模式的網站，但網站每次登入后需要去重新刷新才能夠看到自己的章魚貓🐱。
 
-[](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F81e2880c-3b68-49e8-b6fe-2ef34ad8f629%2FUntitled.png?table=block&id=355cf74d-d42b-4de7-8565-e52f7cdd0d73&width=3840&cache=v2)
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F81e2880c-3b68-49e8-b6fe-2ef34ad8f629%2FUntitled.png?table=block&id=355cf74d-d42b-4de7-8565-e52f7cdd0d73&width=3840&cache=v2">
 
 * Q2：Web 2.0 上的所有應用跟Dapp有什麼差？
 ##### 在我理解中，Web2.0注重的是用戶產生的内容跟易用性，受衆的是最終用戶。在進入Web3.0之後，除了semantic web的開發，更多的是不同框架的誕生，
