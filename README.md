@@ -1,5 +1,5 @@
 ## Lesson : Blockchain
-To learn the concept of blockchain and how it work in different system(network).
+To learn the concept of blockchain and how it works in a different system(network).
 
 * What do I learn:
   * The fundamental of blockchain.
